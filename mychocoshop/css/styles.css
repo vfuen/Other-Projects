@@ -1,0 +1,152 @@
+[class*=" col-"]{
+	float:left;
+	width:100%;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+
+body{
+	font-size:20px;
+	font-family:tahoma;
+     
+}
+.p2-color{
+color:brown;
+font-size:15px;
+}
+.branch-div{
+	padding:15px;
+}
+
+
+
+.map-img{
+	border-style:dashed;
+	border-color:red;
+	max-width:100%;
+}
+
+
+
+h1{
+	text-align:center;
+	background-color:lightgrey;
+}
+h2{
+	background-color:brown;
+	color:white;
+	text-align:center;
+}
+img{
+	max-width:100%;
+	border-radius:40px;
+}
+
+
+.float-eraser{
+	clear:both;
+
+}
+.shape1{
+	background-color:lightgrey;
+	padding:10px;
+	border-radius:20px;
+
+}
+.content{
+	background-color:pink;
+	float:left;
+	width:100%;
+}
+.aligner{
+	text-align:center;
+}	
+
+.product-p2{
+box-sizing: border-box;
+width:50%;
+background-color:white;
+border-radius:10px;
+ margin: 0 auto;
+ font-size:20px;
+}
+.pink-color{
+	background-color:lightgrey;
+}
+.contact-main{
+background-color:white;	
+border-style:solid;
+border-color:brown;
+height:100%;
+margin:0px;
+	
+}
+
+.home-main{
+}
+
+.home-choco-img{
+    max-width:150%; 
+    border-radius:0px;   
+}
+.form{
+	color:brown;
+	padding:20px;
+	text-align:center;
+}
+
+
+.submit-icon{
+	background-color:white;
+	color:brown;
+	border-radius:10px;
+	padding-right:10px;
+	padding-left:10px;
+	border-color:brown;
+	
+}
+
+.contact-footer{
+	margin-top:150%;
+	background-color:pink;
+	border-color:brown;
+	border-style:solid;
+	
+}
+
+.col-1-m{width:8.33%}
+
+@media only screen and (min-width: 800px) {
+.col-1-t{width:8.33%}
+.col-2-t{width:16.66%}
+.col-3-t{width:25%}
+.col-4-t{width:33.33%}
+.col-5-t{width:41.66%}
+.col-6-t{width:50%}
+.col-7-t{width:58.33%}
+.col-8-t{width:66.66%}
+.col-9-t{width:75%}
+.col-10-t{width:83.33%}
+.col-11-t{width:91.66%}
+.col-12-t{width:100%}
+.mobile-invis{display:block;}
+}
+
+@media only screen and (min-width: 1024px) {
+.col-1-d{width:8.33%}
+.col-2-d{width:16.66%}
+.col-3-d{width:25%}
+.col-4-d{width:33.33%}
+.col-5-d{width:41.66%}
+.col-6-d{width:50%}
+.col-7-d{width:58.33%}
+.col-8-d{width:66.66%}
+.col-9-d{width:75%}
+.col-10-d{width:83.33%}
+.col-11-d{width:91.66%}
+.col-12-d{width:100%}
+
+}
