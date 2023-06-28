@@ -1,0 +1,661 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1634431649000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 16
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "Solomon Islands",
+                "time": 1634265897920,
+                "updated": 1634408709537,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000furk.geojson",
+                "felt": 22,
+                "cdi": 8.2,
+                "mmi": 6.222,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 648,
+                "net": "us",
+                "code": "6000furk",
+                "ids": ",at00r0zzn1,us6000furk,pt21288000,",
+                "sources": ",at,us,pt,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.551,
+                "rms": 0.87,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - Solomon Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158.4815,
+                    -8.8768,
+                    22.55
+                ]
+            },
+            "id": "us6000furk"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "0 km SSE of Palekastro, Greece",
+                "time": 1634030643839,
+                "updated": 1634410583103,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftxu",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ftxu.geojson",
+                "felt": 196,
+                "cdi": 8.2,
+                "mmi": 8.28,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 811,
+                "net": "us",
+                "code": "6000ftxu",
+                "ids": ",us6000ftxu,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.82,
+                "rms": 0.73,
+                "gap": 20,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - 0 km SSE of Palekastro, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2556,
+                    35.1931,
+                    10
+                ]
+            },
+            "id": "us6000ftxu"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "114 km E of Chignik, Alaska",
+                "time": 1633943424682,
+                "updated": 1634285938658,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021d1u1nos",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak021d1u1nos.geojson",
+                "felt": 319,
+                "cdi": 8.2,
+                "mmi": 5.986,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 994,
+                "net": "ak",
+                "code": "021d1u1nos",
+                "ids": ",ak021d1u1nos,at00r0t2tb,pt21284000,us6000ftnh,",
+                "sources": ",ak,at,pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.71,
+                "gap": null,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.9 - 114 km E of Chignik, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.5532,
+                    56.2584,
+                    69.1
+                ]
+            },
+            "id": "ak021d1u1nos"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.21,
+                "place": "Hawaii region, Hawaii",
+                "time": 1633902516560,
+                "updated": 1634425100676,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72748782",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv72748782.geojson",
+                "felt": 3477,
+                "cdi": 5.8,
+                "mmi": 6.818,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1173,
+                "net": "hv",
+                "code": "72748782",
+                "ids": ",pt21283001,us6000ftk2,hv72748782,",
+                "sources": ",pt,us,hv,",
+                "types": ",dyfi,general-text,ground-failure,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": 54,
+                "dmin": null,
+                "rms": 0.12,
+                "gap": 278,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 6.2 - Hawaii region, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.527166666667,
+                    18.8203333333333,
+                    35.06
+                ]
+            },
+            "id": "hv72748782"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.9,
+                "place": "Vanuatu region",
+                "time": 1633777110852,
+                "updated": 1634060324040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ft9g",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000ft9g.geojson",
+                "felt": 18,
+                "cdi": 4.1,
+                "mmi": 3.209,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 740,
+                "net": "us",
+                "code": "6000ft9g",
+                "ids": ",us6000ft9g,pt21282002,at00r0pihi,",
+                "sources": ",us,pt,at,",
+                "types": ",associate,dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 4.761,
+                "rms": 0.6,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.9 - Vanuatu region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5286,
+                    -21.1717,
+                    520.42
+                ]
+            },
+            "id": "us6000ft9g"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "4 km WSW of Chiba, Japan",
+                "time": 1633614084549,
+                "updated": 1634391041026,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsl6",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000fsl6.geojson",
+                "felt": 5668,
+                "cdi": 6,
+                "mmi": 5.775,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1136,
+                "net": "us",
+                "code": "6000fsl6",
+                "ids": ",us6000fsl6,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.788,
+                "rms": 1.12,
+                "gap": 29,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 4 km WSW of Chiba, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0698,
+                    35.5771,
+                    62
+                ]
+            },
+            "id": "us6000fsl6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "15 km NNE of Harnai, Pakistan",
+                "time": 1633557668730,
+                "updated": 1634092190607,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsg9",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000fsg9.geojson",
+                "felt": 43,
+                "cdi": 8.1,
+                "mmi": 7.112,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 685,
+                "net": "us",
+                "code": "6000fsg9",
+                "ids": ",us6000fsg9,",
+                "sources": ",us,",
+                "types": ",dyfi,general-text,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 4.395,
+                "rms": 0.74,
+                "gap": 23,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 15 km NNE of Harnai, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.015,
+                    30.2198,
+                    9
+                ]
+            },
+            "id": "us6000fsg9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "South Sandwich Islands region",
+                "time": 1633319646825,
+                "updated": 1634033712509,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000frfw",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000frfw.geojson",
+                "felt": 3,
+                "cdi": 6.5,
+                "mmi": 3.694,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 613,
+                "net": "us",
+                "code": "6000frfw",
+                "ids": ",us6000frfw,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 7.831,
+                "rms": 0.95,
+                "gap": 30,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - South Sandwich Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.4942,
+                    -60.4129,
+                    10
+                ]
+            },
+            "id": "us6000frfw"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "Vanuatu region",
+                "time": 1633156158845,
+                "updated": 1633274923040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fr0b",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000fr0b.geojson",
+                "felt": 15,
+                "cdi": 4.1,
+                "mmi": 3.533,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 826,
+                "net": "us",
+                "code": "6000fr0b",
+                "ids": ",at00r0c7cu,us6000fr0b,pt21275000,",
+                "sources": ",at,us,pt,",
+                "types": ",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 4.477,
+                "rms": 0.54,
+                "gap": 33,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.3 - Vanuatu region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8945,
+                    -21.1036,
+                    535.79
+                ]
+            },
+            "id": "us6000fr0b"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.27,
+                "place": "South Carolina",
+                "time": 1632781317620,
+                "updated": 1633797818214,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/se60370971",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/se60370971.geojson",
+                "felt": 2803,
+                "cdi": 5.4,
+                "mmi": 4.042,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 705,
+                "net": "se",
+                "code": "60370971",
+                "ids": ",se60370971,us7000ff00,",
+                "sources": ",se,us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": 17,
+                "dmin": 0.01826,
+                "rms": 0.13,
+                "gap": 83,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 3.3 - South Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.154,
+                    32.944,
+                    6.75
+                ]
+            },
+            "id": "se60370971"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "7 km NNW of Thrapsan\u00f3n, Greece",
+                "time": 1632723442319,
+                "updated": 1634255159457,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fes8",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fes8.geojson",
+                "felt": 133,
+                "cdi": 7.9,
+                "mmi": 7.514,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 755,
+                "net": "us",
+                "code": "7000fes8",
+                "ids": ",us7000fes8,",
+                "sources": ",us,",
+                "types": ",dyfi,general-text,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.304,
+                "rms": 0.71,
+                "gap": 36,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.0 - 7 km NNW of Thrapsan\u00f3n, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2595,
+                    35.2523,
+                    8.71
+                ]
+            },
+            "id": "us7000fes8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.7,
+                "place": "20 km W of Talisay, Philippines",
+                "time": 1632676326464,
+                "updated": 1632858661040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fen1",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fen1.geojson",
+                "felt": 211,
+                "cdi": 6.1,
+                "mmi": 5.181,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 629,
+                "net": "us",
+                "code": "7000fen1",
+                "ids": ",us7000fen1,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 8.502,
+                "rms": 1.82,
+                "gap": 25,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.7 - 20 km W of Talisay, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4353,
+                    13.9491,
+                    89.9
+                ]
+            },
+            "id": "us7000fen1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "80 km SW of Jiquilillo, Nicaragua",
+                "time": 1632304627023,
+                "updated": 1633683502459,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fdds",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fdds.geojson",
+                "felt": 46,
+                "cdi": 7,
+                "mmi": 4.701,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 682,
+                "net": "us",
+                "code": "7000fdds",
+                "ids": ",pt21265000,at00qztyb6,us7000fdds,",
+                "sources": ",pt,at,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.993,
+                "rms": 1.07,
+                "gap": 114,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - 80 km SW of Jiquilillo, Nicaragua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8647,
+                    12.1396,
+                    21
+                ]
+            },
+            "id": "us7000fdds"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "38 km SSW of Mount Buller, Australia",
+                "time": 1632266153617,
+                "updated": 1634324352953,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd9v",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fd9v.geojson",
+                "felt": 5833,
+                "cdi": 5.3,
+                "mmi": 7.244,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1180,
+                "net": "us",
+                "code": "7000fd9v",
+                "ids": ",us7000fd9v,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.685,
+                "rms": 0.82,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 38 km SSW of Mount Buller, Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.3466,
+                    -37.4863,
+                    12
+                ]
+            },
+            "id": "us7000fd9v"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "73 km W of Talcahuano, Chile",
+                "time": 1632230072025,
+                "updated": 1634158808980,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd4k",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000fd4k.geojson",
+                "felt": 84,
+                "cdi": 6.4,
+                "mmi": 4.74,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 684,
+                "net": "us",
+                "code": "7000fd4k",
+                "ids": ",us7000fd4k,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.14,
+                "rms": 0.7,
+                "gap": 110,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - 73 km W of Talcahuano, Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9329,
+                    -36.7771,
+                    18.8
+                ]
+            },
+            "id": "us7000fd4k"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.28,
+                "place": "2km E of Carson, CA",
+                "time": 1631933914700,
+                "updated": 1634184399235,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39812319",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39812319.geojson",
+                "felt": 10286,
+                "cdi": 5.2,
+                "mmi": 5.585,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 802,
+                "net": "ci",
+                "code": "39812319",
+                "ids": ",ci39812319,at00qzm09n,us7000fcal,ew1631933910,",
+                "sources": ",ci,at,us,ew,",
+                "types": ",dyfi,focal-mechanism,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 181,
+                "dmin": 0.03611,
+                "rms": 0.28,
+                "gap": 60,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.3 - 2km E of Carson, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2636667,
+                    33.8313333,
+                    11.86
+                ]
+            },
+            "id": "ci39812319"
+        }
+    ],
+    "bbox": [
+        -156.5532,
+        -60.4129,
+        6.75,
+        174.8945,
+        56.2584,
+        535.79
+    ]
+}
